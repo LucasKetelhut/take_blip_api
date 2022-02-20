@@ -6,7 +6,8 @@
   "author": "Lucas Ketelhut <lucas-kmk@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node src/index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
