@@ -20,7 +20,7 @@
 
 ---
 
-## 🤖 Sobre o desafio
+## Sobre o desafio
 A ideia central foi a criação de um ChatBot pela plataforma da Blip, que lista os 6 valores da empresa. Além disso, há um sétimo tópico "Desafio", onde nos foi cobrado a criação de uma API intermediária para buscar os dados da API do Github referente aos reposítórios da Take Blip. No desafio, devemos listar os 5 repositórios de C# mais antigos.
 
 ## Resultado esperado do desafio
@@ -33,7 +33,7 @@ exemplo enviado.
 
 ---
 
-## 🎨 Formato do arquivo JSON
+## Formato do arquivo JSON
 
 <h3>Explicação do JSON de retorno da API:</h3>
 
